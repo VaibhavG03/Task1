@@ -1,0 +1,61 @@
+#container{
+    width: 800px;
+    margin: auto;
+   
+}
+#header img{
+    float: left;
+
+}
+  #nav{
+    text-align: right;
+    background-color: white;
+}
+#nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+#nav li{
+    
+    display: inline;
+    margin: 0px 20px;
+}
+ #logo{
+    height: 30px;
+    width: 90px;
+    
+}
+#nav ul li a:hover{
+color: skyblue;
+}
+#image{
+    width: 800px;
+}
+#header{
+    height: 30px;
+    background-color: white;
+}
+#section1{
+    margin-top: 100px;
+    margin-left: 50px;
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    z-index: +2;
+}
+ #new{
+    margin-top: 5px;
+    color: black;
+    background-color: white;
+    border-color: white;
+    padding: 6px;
+}
+#learn{
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+    padding: 8px;
+}
+#section1 h3,p{
+    color: white;
+}
